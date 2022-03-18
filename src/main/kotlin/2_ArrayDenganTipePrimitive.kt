@@ -17,5 +17,5 @@ fun main() {
     var intArray = IntArray(5) { it * 1 }
     intArray.forEach { print(it.toString() + ' ') }
     print('\n')
-    //
+    ////
 }
